@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @khalilahmed
+- 👋 Hi, I’m @khalilahmed63
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently working with Next.js and React.js front-end web development
 - 💞️ I’m looking to collaborate other content creater
 - 📫 How to reach me ? 
 - you can reach me through my email (panhwarkhalilahmed@gmail.com).
