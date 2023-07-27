@@ -3,7 +3,7 @@
 - 🌱 I’m currently working with Next.js and React.js front-end web development.
 - 💞️ I’m looking to collaborate with other Developers.
 - 📫 How to reach me? 
-- you can reach me through my email ( panhwarkhalilahmed@gmail.com ).
+- you can reach me through my email ( contact@khalilahmed.dev ).
 - you can DM me through my Whatsapp  ( +923070599766 ).
 
 <!---
