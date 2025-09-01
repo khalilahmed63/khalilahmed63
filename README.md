@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there, I'm Khalil Ahmed! 👋
 
-I'm a passionate Frontend Web Developer with 4 years of experience specializing in React.js and Next.js. I have a keen interest in web development, blockchain (Web3), and the latest technologies.
+I'm a passionate Frontend Web Developer with 5 years of experience specializing in React.js and Next.js. I have a keen interest in web development, blockchain (Web3), and the latest technologies.
 
 - 🌱 **Currently Working On:** Next.js and React.js projects
 - 💬 **Ask me about:** Frontend development, React, Next.js, Web3
