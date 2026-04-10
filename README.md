@@ -56,14 +56,6 @@ https://github.com/khalilahmed63/nextjs-web3-dashboard-starter
 
 ---
 
-# 📈 GitHub Stats
-
-![Khalil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalilahmed63&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilahmed63&layout=compact&theme=radical)
-
----
-
 # 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://www.khalilahmed.dev)
