@@ -12,27 +12,47 @@ Currently focused on building **DeFi analytics tools, Web3 dashboards, and devel
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Open Source Projects
 
 ## Next.js Web3 Dashboard Starter
-
-Production-ready **Web3 dashboard starter** for building **DeFi analytics platforms and blockchain dashboards**.
-
-Includes:
-
-• Wallet connection (RainbowKit + Wagmi)  
-• DeFi analytics dashboard UI  
-• Liquidity pool explorer  
-• Wallet portfolio view  
-• Scalable Web3 architecture  
-
-🔗 **Live Demo**  
-https://nextjs-web3-dashboard-starter.vercel.app
 
 📦 **GitHub Repository**  
 https://github.com/khalilahmed63/nextjs-web3-dashboard-starter
 
-![Dashboard Preview](https://raw.githubusercontent.com/khalilahmed63/nextjs-web3-dashboard-starter/main/public/screenshots/dashboard.png)
+---
+
+## DeFi Yield Aggregator Dashboard
+
+📦 GitHub Repository  
+https://github.com/khalilahmed63/defi-yield-aggregator-dashboard
+
+---
+
+## Real-Time Crypto Price Dashboard
+
+📦 GitHub Repository  
+https://github.com/khalilahmed63/real-time-crypto-price-dashboard
+
+---
+
+## Web3 Whale Tracker Dashboard
+
+📦 GitHub Repository  
+https://github.com/khalilahmed63/web3-whale-tracker-dashboard
+
+---
+
+## AI Web3 Wallet Assistant
+
+📦 GitHub Repository  
+https://github.com/khalilahmed63/ai-web3-wallet-assistant
+
+---
+
+## Wallet Transaction Analyzer
+
+📦 GitHub Repository  
+https://github.com/khalilahmed63/wallet-transaction-analyzer
 
 ---
 
@@ -48,70 +68,6 @@ https://github.com/khalilahmed63/nextjs-web3-dashboard-starter
 
 ---
 
----
-
-# 📊 More Projects
-
-## DeFi Yield Aggregator Dashboard
-
-Compare yield opportunities across multiple DeFi protocols and chains.  
-Track APY, TVL, and liquidity pools in one clean interface.
-
-🔗 Live Demo  
-https://your-defi-yield-aggregator.vercel.app
-
-📦 GitHub Repository  
-https://github.com/khalilahmed63/defi-yield-aggregator-dashboard
-
----
-
-## Real-Time Crypto Price Dashboard
-
-Track live crypto prices with real-time updates, charts, and market data.
-
-🔗 Live Demo  
-https://your-crypto-price-dashboard.vercel.app
-
-📦 GitHub Repository  
-https://github.com/khalilahmed63/real-time-crypto-price-dashboard
-
----
-
-## Web3 Whale Tracker Dashboard
-
-Monitor large wallet activity, detect big transactions, and track whale movements across chains.
-
-🔗 Live Demo  
-https://your-whale-tracker.vercel.app
-
-📦 GitHub Repository  
-https://github.com/khalilahmed63/web3-whale-tracker-dashboard
-
----
-
-## AI Web3 Wallet Assistant
-
-AI-powered wallet analyzer that explains portfolio, behavior, and risk in plain English.
-
-🔗 Live Demo  
-https://your-ai-wallet-assistant.vercel.app
-
-📦 GitHub Repository  
-https://github.com/khalilahmed63/ai-web3-wallet-assistant
-
----
-
-## Wallet Transaction Analyzer
-
-Analyze wallet transaction history, track inflow/outflow, and understand behavior patterns.
-
-🔗 Live Demo  
-https://your-wallet-analyzer.vercel.app
-
-📦 GitHub Repository  
-https://github.com/khalilahmed63/wallet-transaction-analyzer
-
----
 
 # 🌐 Connect With Me
 
