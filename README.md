@@ -15,43 +15,37 @@ Currently focused on building **DeFi analytics tools, Web3 dashboards, and devel
 # 🚀 Open Source Projects
 
 ## Next.js Web3 Dashboard Starter
-
-📦 **GitHub Repository**  
+ 
 https://github.com/khalilahmed63/nextjs-web3-dashboard-starter
 
 ---
 
 ## DeFi Yield Aggregator Dashboard
 
-📦 GitHub Repository  
 https://github.com/khalilahmed63/defi-yield-aggregator-dashboard
 
 ---
 
 ## Real-Time Crypto Price Dashboard
-
-📦 GitHub Repository  
+ 
 https://github.com/khalilahmed63/real-time-crypto-price-dashboard
 
 ---
 
 ## Web3 Whale Tracker Dashboard
 
-📦 GitHub Repository  
 https://github.com/khalilahmed63/web3-whale-tracker-dashboard
 
 ---
 
 ## AI Web3 Wallet Assistant
-
-📦 GitHub Repository  
+ 
 https://github.com/khalilahmed63/ai-web3-wallet-assistant
 
 ---
 
 ## Wallet Transaction Analyzer
 
-📦 GitHub Repository  
 https://github.com/khalilahmed63/wallet-transaction-analyzer
 
 ---
