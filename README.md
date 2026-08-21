@@ -17,46 +17,23 @@ I build **DeFi dashboards, blockchain analytics platforms, and crypto interfaces
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=khalilahmed63&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=khalilahmed63&theme=dark&hide_border=true" width="49%" />
-</p>
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=khalilahmed63&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=khalilahmed63&theme=dark&hide_border=true)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilahmed63&layout=compact&theme=dark&hide_border=true&langs_count=6" width="40%" />
-</p>
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=khalilahmed63&layout=compact&theme=dark&hide_border=true&langs_count=6)
 
 ---
 
 ## 🚀 Open Source Projects
 
-<p>
-  <a href="https://github.com/khalilahmed63/nextjs-web3-dashboard-starter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khalilahmed63&repo=nextjs-web3-dashboard-starter&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/khalilahmed63/ai-web3-wallet-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khalilahmed63&repo=ai-web3-wallet-assistant&theme=dark&hide_border=true" />
-  </a>
-</p>
+[![nextjs-web3-dashboard-starter](https://github-stats-extended.vercel.app/api/pin/?username=khalilahmed63&repo=nextjs-web3-dashboard-starter&theme=dark&hide_border=true)](https://github.com/khalilahmed63/nextjs-web3-dashboard-starter)
+[![ai-web3-wallet-assistant](https://github-stats-extended.vercel.app/api/pin/?username=khalilahmed63&repo=ai-web3-wallet-assistant&theme=dark&hide_border=true)](https://github.com/khalilahmed63/ai-web3-wallet-assistant)
 
-<p>
-  <a href="https://github.com/khalilahmed63/defi-yield-aggregator-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khalilahmed63&repo=defi-yield-aggregator-dashboard&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/khalilahmed63/web3-whale-tracker-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khalilahmed63&repo=web3-whale-tracker-dashboard&theme=dark&hide_border=true" />
-  </a>
-</p>
+[![defi-yield-aggregator-dashboard](https://github-stats-extended.vercel.app/api/pin/?username=khalilahmed63&repo=defi-yield-aggregator-dashboard&theme=dark&hide_border=true)](https://github.com/khalilahmed63/defi-yield-aggregator-dashboard)
+[![web3-whale-tracker-dashboard](https://github-stats-extended.vercel.app/api/pin/?username=khalilahmed63&repo=web3-whale-tracker-dashboard&theme=dark&hide_border=true)](https://github.com/khalilahmed63/web3-whale-tracker-dashboard)
 
-<p>
-  <a href="https://github.com/khalilahmed63/real-time-crypto-price-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khalilahmed63&repo=real-time-crypto-price-dashboard&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/khalilahmed63/wallet-transaction-analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khalilahmed63&repo=wallet-transaction-analyzer&theme=dark&hide_border=true" />
-  </a>
-</p>
-
+[![real-time-crypto-price-dashboard](https://github-stats-extended.vercel.app/api/pin/?username=khalilahmed63&repo=real-time-crypto-price-dashboard&theme=dark&hide_border=true)](https://github.com/khalilahmed63/real-time-crypto-price-dashboard)
+[![wallet-transaction-analyzer](https://github-stats-extended.vercel.app/api/pin/?username=khalilahmed63&repo=wallet-transaction-analyzer&theme=dark&hide_border=true)](https://github.com/khalilahmed63/wallet-transaction-analyzer)
 ---
 
 ## 🧰 Tech Stack
